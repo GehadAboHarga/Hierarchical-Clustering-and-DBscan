@@ -207,7 +207,7 @@ plt.show()
 
 # Looking at the colors of the dimensions can you observe how they differ between the three type of flowers? You should at least be able to notice how one is vastly different from the two others (in the top third of the image).
 
-# In[ ]:
+
 
 
 
